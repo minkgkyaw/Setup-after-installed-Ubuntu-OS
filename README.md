@@ -14,7 +14,7 @@
   
 - [x] [Customize SHELL with zsh (Oh-My-Zsh)](./Install_shell.md)
   
-- [x] [Install tweaks tool for GUI](#install-tewaks-tool-for-gui)
+- [x] [Customize GUI](#install-tewaks-tool-for-gui)
   
 - [X] [Setup MERN Stack](#setup-mern-stack)
 
