@@ -22,4 +22,8 @@
 
 - [x] Setup LAMP Stack
 
+- [x] Install PHPMyAdmin
+
+- [x] Bonux Just For Fun
+
 ---
