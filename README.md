@@ -24,6 +24,8 @@
 
 - [x] Install PHPMyAdmin
 
-- [x] Bonux Just For Fun
+- [x] Bonux Section (Just For Fun)
+
+- [x]
 
 ---
